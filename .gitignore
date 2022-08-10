@@ -1,0 +1,12 @@
+.env
+node_modules
+.parcel-cache
+css
+dist.rar
+image-ipfs-upload.rar
+index.html
+index.js
+package-lock.json
+package.json
+tailwind.config.js
+webcam.min.js
